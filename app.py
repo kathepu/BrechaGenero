@@ -85,7 +85,7 @@ st.markdown(f"""
     }}
 
     /* Título y texto */
-    h1 {{ color: {AZUL_OSCURO}; font-weight: 700; letter-spacing: -0.5px; }}
+    h1 {{ color: {TEXTO_OSCURO} !important; font-weight: 700; letter-spacing: -0.5px; }}
     h2, h3 {{ color: {AZUL_OSCURO}; }}
     p, .stMarkdown {{ color: {TEXTO_SUAVE}; }}
 
