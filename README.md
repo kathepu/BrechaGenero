@@ -1,6 +1,6 @@
 # Brecha de Género en el Mercado Laboral Chileno
 
-Este proyecto es un dashboard interactivo que analiza las desigualdades de género en el mercado laboral chileno, utilizando datos de la Encuesta CASEN 2022. Lo desarrollé como parte de mi portafolio para postular a programas de máster en Ciencia de Datos.
+Este proyecto es un dashboard interactivo que analiza las desigualdades de género en el mercado laboral chileno, utilizando datos de la Encuesta CASEN 2022.
 
 ## Sobre el proyecto
 
@@ -78,7 +78,7 @@ El proceso incluyó:
 
 ## Sobre mí
 
-Soy Katherine Paola Urdaneta Gutiérrez, Licenciada en Trabajo Social y Analista de Datos. Este proyecto lo desarrollé como parte de mi preparación para postular a programas de máster en Ciencia de Datos Aplicada a las Ciencias Sociales.
+Soy Katherine Paola Urdaneta Gutiérrez, Licenciada en Trabajo Social y Analista de Datos.
 
 Contacto: kathepu@gmail.com
 
